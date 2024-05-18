@@ -478,11 +478,11 @@ header {
   cursor: pointer;
   border: none;
   background: center no-repeat transparent;
-  background-image: url(../assets/img/arrow.svg);
+  background-image: url(assets/img/arrow.svg);
 }
 #our-works .works-arrows .slick-arrow:hover {
   transition: 0.3s;
-  background-image: url(../assets/img/arrow-hover.svg);
+  background-image: url(assets/img/arrow-hover.svg);
 }
 #our-works .works-arrows .slick-next {
   transform: rotate(180deg);
