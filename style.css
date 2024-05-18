@@ -788,6 +788,9 @@ header {
   #about-company {
     padding: 50px 0;
   }
+  #about-company .label-section {
+    top: 36.5px;
+  }
   #about-company .grade-box {
     margin-bottom: 30px;
   }
